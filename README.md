@@ -1,1 +1,0 @@
-# koryo.wait2
